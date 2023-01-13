@@ -17,7 +17,7 @@
 
 ### About-Sangram
 
-<a href="https://www.youtube.com/Official_Sangram"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a> 
+<a href="https://youtube.com/@Official_Sangram"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a> 
 <a href="https://t.me/Sangram_XD"><img src="https://img.shields.io/badge/join-Telegram%Channel-blue.svg?style=for-the-badge&logo=Telegram"></a> 
 
 ## Requirment.
