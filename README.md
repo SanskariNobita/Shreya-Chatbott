@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ ALEXA AI MACHINE BOT ❤️</b></h1>
+<h1 align="center"><b> SHREYA MACHINE BOT </b></h1>
 
 <h4 align="center">A Telegram Userbot For AI Machine System To Increase Your Chat Ranking <br> ... Written With Python, Pyrogram And Mongodb Backend Database...</h4>
 
