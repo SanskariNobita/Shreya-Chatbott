@@ -39,32 +39,32 @@ async def is_admins(chat_id: int):
     & ~filters.private)
 async def chatbot(client, message):
     await message.delete()
-    alexaai = await message.reply("🤭🤏✌️")
+    alexaai = await message.reply("👀")
     await asyncio.sleep(1)
-    await alexaai.edit("**ʙᴏʜᴀᴛ ᴛᴀɪᴊ ʜᴏ ʀᴇᴘᴏ ᴄʜᴀʜɪʏᴇ**")
+    await alexaai.edit("**😀 𝐑𝐞𝐩𝐨 𝐢𝐬 𝐏𝐫𝐚𝐢𝐯𝐭𝐞 😀**")
     await asyncio.sleep(1)
-    await alexaai.edit("**ɪ ᴀᴍ ᴅᴏɪɴɢ ᴍʏ ʟᴏᴠᴇ 💕**")
+    await alexaai.edit("**😘 𝐋𝐨𝐯𝐞 𝐲𝐨𝐮 😘**")
     await alexaai.delete()
     await asyncio.sleep(2)
-    umm = await message.reply_sticker("CAACAgIAAxkBAAEForNjAykaq_efq4Wd-9KZv-nNxJRn3AACIgMAAm2wQgO8x8PfoXC1eCkE")
+    umm = await message.reply_sticker("CAACAgQAAxkBAAIBNGPBGEjm8t1RHGY0J_BheWhzKYZbAAIWEAACpvFxHvvJk-2D25XRLQQ")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
-        caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
-💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
-━━━━━━━━━━━━━━━━━
-ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
+        photo=f"https://te.legra.ph/file/21941841a9fca15ea39e7.jpg",
+        caption=f"""━━━━━━━━━━━━━━━━━━━━━━
+🥀 𝐀 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐀𝐢 𝐁𝐨𝐭 𝐨𝐟 𝐒𝐚𝐧𝐠𝐫𝐚𝐦.
+
+━━━━━━━━━━━━━━━━━━━
+🥀 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐁𝐨𝐭 𝐟𝐨𝐫 𝐓𝐠..
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/Give_Me_Heart)
-┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/AsadSupport)
-┣★ ᴀʟᴇxᴀ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/AlexaFed_Logs)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/TheTeamAlexa/AlexaAiMachineBot)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ʀᴏᴄᴋs](https://t.me/Shayri_Music_Lovers)
+┣➤ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ☞ [𝐒𝐚𝐧𝐠𝐫𝐚𝐦](https://t.me/The_Sangram)
+┣➤ 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐨𝐧 ☞ [𝐘𝐨𝐮𝐓𝐮𝐛𝐞](https://youtube.com/@Official_Sangram)
+┣➤ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ☞ [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/WorldChattingFriendsWCF)
+┣➤ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ☞ [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/WCFnetwork)
+┣➤ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 ☞ [𝐇𝐞𝐫𝐞](https://github.com/OpQueenbots/Shreya-Chatbot)
+┣➤ 𝐎𝐰𝐧𝐞𝐫 ☞ [𝐒𝐚𝐧𝐠𝐫𝐚𝐦 𝐱𝐃](https://t.me/Sangram_XD)
 ┗━━━━━━━━━━━━━━━━━┛
-💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Jankari_Ki_Duniya""",
+
+🥀 𝐈𝐟 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐚𝐧𝐲 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐞𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐲 [𝐎𝐰𝐧𝐞𝐫](https://t.me/The_Sangram)""",
     ) 
 
 
@@ -72,7 +72,7 @@ IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Jankari_Ki_Duniya""",
     filters.command("alive", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def start(client, message):
-    await message.reply_text(f"**ᴀʟᴇxᴀ ᴀɪ ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴄʜᴀᴛᴛɪɴɢ ɪs ᴡᴏʀᴋɪɴɢ**")
+    await message.reply_text(f"**𝐒𝐡𝐫𝐞𝐲𝐚 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐢𝐬 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠**")
 
 @client.on_message(
     filters.command("chatbot off", prefixes=["/", ".", "?", "-"])
