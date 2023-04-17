@@ -46,7 +46,7 @@ async def chatbot(client, message):
     await alexaai.edit("** ʜᴇɪɴ **")
     await alexaai.delete()
     await asyncio.sleep(2)
-    umm = await message.reply_sticker("CAACAgQAAxkBAAIBNGPBGEjm8t1RHGY0J_BheWhzKYZbAAIWEAACpvFxHvvJk-2D25XRLQQ")
+    umm = await message.reply_sticker("CAACAgUAAxkBAAEIncZkPUVTkM3gs8gM5NgJqd8j1cTdDQACLggAAkcScVVtL46S3WbPEi8E")
     await asyncio.sleep(2)
     await message.reply_photo(
         photo=f"https://telegra.ph/file/229fd1c341bda096b80f9.jpg",
@@ -56,7 +56,7 @@ async def chatbot(client, message):
 ━━━━━━━━━━━━━━━━━━━
 ⚕️ ᴍᴏʀᴇ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ 
 ┏━━━━━━━━━━━━━━━━━┓
-┣➤ ᴄʀᴇᴀᴛᴏʀ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪🍁](https://t.me/Teri_gf_mere_phan)
+┣➤ ᴄʀᴇᴀᴛᴏʀ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/Teri_gf_mere_phan)
 ┣➤ sᴜᴘᴘᴏʀᴛ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/Best_friends_chatting_01)
 ┣➤ ᴜᴘᴅᴀᴛᴇs ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/ABOUT_NOBITA_XD)
 ┣➤ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/ABOUT_NOBITA_XD)
