@@ -41,9 +41,9 @@ async def chatbot(client, message):
     await message.delete()
     alexaai = await message.reply("👀")
     await asyncio.sleep(1)
-    await alexaai.edit("**😀 𝐑𝐞𝐩𝐨 𝐢𝐬 𝐏𝐫𝐚𝐢𝐯𝐭𝐞 😀**")
+    await alexaai.edit("** ʀᴇᴘᴏ ɪs ᴘʀɪᴠᴀᴛᴇ 🍁**")
     await asyncio.sleep(1)
-    await alexaai.edit("**😘 𝐋𝐨𝐯𝐞 𝐲𝐨𝐮 😘**")
+    await alexaai.edit("** ʜᴇɪɴ **")
     await alexaai.delete()
     await asyncio.sleep(2)
     umm = await message.reply_sticker("CAACAgQAAxkBAAIBNGPBGEjm8t1RHGY0J_BheWhzKYZbAAIWEAACpvFxHvvJk-2D25XRLQQ")
@@ -51,20 +51,18 @@ async def chatbot(client, message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/21941841a9fca15ea39e7.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━
-🥀 𝐀 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐀𝐢 𝐁𝐨𝐭 𝐨𝐟 𝐒𝐚𝐧𝐠𝐫𝐚𝐦.
+🥀 ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴄʜᴀᴛ ʙᴏᴛ.
 
 ━━━━━━━━━━━━━━━━━━━
-🥀 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐁𝐨𝐭 𝐟𝐨𝐫 𝐓𝐠..
+🥀 ᴍᴏʀᴇ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ 
 ┏━━━━━━━━━━━━━━━━━┓
-┣➤ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 ☞ [𝐒𝐚𝐧𝐠𝐫𝐚𝐦](https://t.me/The_Sangram)
-┣➤ 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐨𝐧 ☞ [𝐘𝐨𝐮𝐓𝐮𝐛𝐞](https://youtube.com/@Official_Sangram)
-┣➤ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ☞ [𝐒𝐮𝐩𝐩𝐨𝐫𝐭](https://t.me/WorldChattingFriendsWCF)
-┣➤ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ☞ [𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/WCFnetwork)
-┣➤ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 ☞ [𝐇𝐞𝐫𝐞](https://github.com/OpQueenbots/Shreya-Chatbot)
-┣➤ 𝐎𝐰𝐧𝐞𝐫 ☞ [𝐒𝐚𝐧𝐠𝐫𝐚𝐦 𝐱𝐃](https://t.me/Sangram_XD)
+┣➤ ᴄʀᴇᴀᴛᴏʀ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪🍁](https://t.me/Teri_gf_mere_phan)
+┣➤ sᴜᴘᴘᴏʀᴛ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/Best_friends_chatting_01)
+┣➤ ᴜᴘᴅᴀᴛᴇs ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/ABOUT_NOBITA_XD)
+┣➤ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/ABOUT_NOBITA_XD)
 ┗━━━━━━━━━━━━━━━━━┛
 
-🥀 𝐈𝐟 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐚𝐧𝐲 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐞𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐲 [𝐎𝐰𝐧𝐞𝐫](https://t.me/The_Sangram)""",
+🥀 ɪғ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/Teri_gf_mere_phan)""",
     ) 
 
 
@@ -72,7 +70,7 @@ async def chatbot(client, message):
     filters.command("alive", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def start(client, message):
-    await message.reply_text(f"**𝐒𝐡𝐫𝐞𝐲𝐚 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐢𝐬 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐂𝐡𝐚𝐭𝐭𝐢𝐧𝐠**")
+    await message.reply_text(f"**sᴀɴsᴋᴀʀɪ ᴄʜᴀᴛʙᴏᴛ ɪs ᴡᴏʀᴋɪɴɢ ɴᴏᴡ **")
 
 @client.on_message(
     filters.command("chatbot off", prefixes=["/", ".", "?", "-"])
