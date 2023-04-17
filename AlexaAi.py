@@ -49,12 +49,12 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgQAAxkBAAIBNGPBGEjm8t1RHGY0J_BheWhzKYZbAAIWEAACpvFxHvvJk-2D25XRLQQ")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/21941841a9fca15ea39e7.jpg",
+        photo=f"https://telegra.ph/file/229fd1c341bda096b80f9.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━
-🥀 ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴄʜᴀᴛ ʙᴏᴛ.
+🍁 ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴄʜᴀᴛ ʙᴏᴛ.
 
 ━━━━━━━━━━━━━━━━━━━
-🥀 ᴍᴏʀᴇ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ 
+⚕️ ᴍᴏʀᴇ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣➤ ᴄʀᴇᴀᴛᴏʀ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪🍁](https://t.me/Teri_gf_mere_phan)
 ┣➤ sᴜᴘᴘᴏʀᴛ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/Best_friends_chatting_01)
@@ -62,7 +62,7 @@ async def chatbot(client, message):
 ┣➤ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☞ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/ABOUT_NOBITA_XD)
 ┗━━━━━━━━━━━━━━━━━┛
 
-🥀 ɪғ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/Teri_gf_mere_phan)""",
+✨ ɪғ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [𓆩 | •𝐒 𝐀 𝐒 𝐊 𝐀 𝐑 𝐈 ꭙ 𝐁 𝐎 𝐘 •|𓆪](https://t.me/Teri_gf_mere_phan)""",
     ) 
 
 
